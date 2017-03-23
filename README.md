@@ -2,14 +2,14 @@
 
 Use rails application template generate rails project.
 
-##How to use:
+## How to use:
 
 ```
 $host: git clone rails_template_demo.git
 $host: rails new your_app_name -m app_template.rb
 ```
 
-##What's generate in this template: 
+## What's generate in this template: 
 
 <pre>
 ├── .gitignore
